@@ -8,16 +8,15 @@ El uso es el siguiente:
 1. Click Derecho
 2. Compartir
 3. Copiar enlace de la canción
-NOTA: También podemos seleccionar más
-	- Todas las canciones: Control + A
- 	- Seleccionar canciones en especifico: Control + Click Izquierdo
-4. Una vez copiadas las URLs de las canciones, pegaremos en el cuadro de texto las URLs.
-5. Pulsaremos sobre el botón 'Procesar URLs', esperaremos un momento, hasta que nos salga 
-la ventana que nos diga:
-	- Proceso completado, Se ha guardado el resultado en resultado.txt
-6. Este nuevo 'resultado.txt' se generará en el mismo lugar donde está aplicación (.exe)
-que acabamos de ejecutar.
-7. Si quieres reutilizar la aplicación elimina el archivo 'resultado.txt' y voy a realizar el proceso.
+   - NOTA: También podemos seleccionar más
+   - Todas las canciones: Control + A
+   - Seleccionar canciones en especifico: Control + Click Izquierdo
+5. Una vez copiadas las URLs de las canciones, pegaremos en el cuadro de texto las URLs.
+6. Pulsaremos sobre el botón 'Procesar URLs', esperaremos un momento, hasta que nos salga la ventana que nos diga:
+   - Proceso completado, Se ha guardado el resultado en resultado.txt
+8. Este nuevo 'resultado.txt' se generará en el mismo lugar donde está aplicación (.exe) que acabamos de ejecutar.
+
+Si quieres reutilizar la aplicación elimina el archivo 'resultado.txt' y voy a realizar el proceso.
 
 Hecho por Víctor Rubio Caballero
 
