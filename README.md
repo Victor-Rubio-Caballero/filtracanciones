@@ -11,13 +11,13 @@ El uso es el siguiente:
 NOTA: También podemos seleccionar más
 	- Todas las canciones: Control + A
  	- Seleccionar canciones en especifico: Control + Click Izquierdo
-- Una vez copiadas las URLs de las canciones, pegaremos en el cuadro de texto las URLs.
-- Pulsaremos sobre el botón 'Procesar URLs', esperaremos un momento, hasta que nos salga 
+4. Una vez copiadas las URLs de las canciones, pegaremos en el cuadro de texto las URLs.
+5. Pulsaremos sobre el botón 'Procesar URLs', esperaremos un momento, hasta que nos salga 
 la ventana que nos diga:
 	- Proceso completado, Se ha guardado el resultado en resultado.txt
-- Este nuevo 'resultado.txt' se generará en el mismo lugar donde está aplicación (.exe)
+6. Este nuevo 'resultado.txt' se generará en el mismo lugar donde está aplicación (.exe)
 que acabamos de ejecutar.
-- Si quieres reutilizar la aplicación elimina el archivo 'resultado.txt' y voy a realizar el proceso.
+7. Si quieres reutilizar la aplicación elimina el archivo 'resultado.txt' y voy a realizar el proceso.
 
 Hecho por Víctor Rubio Caballero
 
