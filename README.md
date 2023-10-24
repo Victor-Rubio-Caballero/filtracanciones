@@ -4,13 +4,13 @@ Aplicación de Escritorio FiltraCanciones
 La instalación es simple, descomprime la carpeta y ejecuta la aplicación llamada FiltraCanciones.
 
 El uso es el siguiente:
-	Dentro del cuadro de texto que vemos según iniciamos la aplicación, pegaremos una URL (o varias) de una canción que generamos en Spotify, para ello:
- 		Click Derecho
-   		Compartir
-     		Copiar enlace de la canción
-		NOTA: También podemos seleccionar más
-			+ Todas las canciones: Control + A
-			+ Seleccionar canciones en especifico: Control + Click Izquierdo
+- Dentro del cuadro de texto que vemos según iniciamos la aplicación, pegaremos una URL (o varias) de una canción que generamos en Spotify, para ello:
+1. Click Derecho
+2. Compartir
+3. Copiar enlace de la canción
+NOTA: También podemos seleccionar más
+	- Todas las canciones: Control + A
+ 	- Seleccionar canciones en especifico: Control + Click Izquierdo
 	- Una vez copiadas las URLs de las canciones, pegaremos en el cuadro de texto las URLs.
 	- Pulsaremos sobre el botón 'Procesar URLs', esperaremos un momento, hasta que nos salga 
 	la ventana que nos diga:
