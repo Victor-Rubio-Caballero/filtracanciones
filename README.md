@@ -8,6 +8,7 @@ El uso es el siguiente:
 1. Click Derecho
 2. Compartir
 3. Copiar enlace de la canción
+   - asd
    - NOTA: También podemos seleccionar más
    - Todas las canciones: Control + A
    - Seleccionar canciones en especifico: Control + Click Izquierdo
